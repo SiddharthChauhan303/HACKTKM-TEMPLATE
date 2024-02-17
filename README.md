@@ -5,9 +5,9 @@
 Tell us about your project here
 
 ## Team Members
-[1.Kushal Partani](enter_github_id_here)   
-[2.Siddharth Chauhan](enter_github_id_here)   
-[3.Pranav Bhutada](enter_github_id_here)   
+[1.Kushal Partani](https://github.com/Kushal7551)   
+[2.Siddharth Chauhan](https://github.com/SiddharthChauhan303)   
+[3.Pranav Bhutada](https://github.com/pranav243)   
 [4.Yash Gupta](enter_github_id_here)   
 
 ## Link to Project
