@@ -1,7 +1,7 @@
 ![image](HACK4TKM.jpeg)
 
 
-# {Project Name} - HACK4TKM
+# {FreshGuard} - HACK4TKM
 
 
 ## Team Members
@@ -24,13 +24,32 @@ Empowering consumers and industries with proactive food management solutions.
 Embed video of project demo
 
 ## Technologies used
-
+python 
+Pytorch 
+Tensorflow
+Pyserial
+Numpy
+Pandas
+Flutter
+Arduino 
 
 ## How to configure
-Instructions for setting up project
+Connect the sensor pins to the multiplexer and the multiplexer pin to the 
+Arduino analog pin.
+
+Rest pins are connected with ground and VDD/5V of Arduino, 1 group sensor consisting of 4 different sensors is connected through SDA SCL pins.
+
+Now through pyserial communications the values of arduino are stored in computer and then a python script runs the model which push the prediction(accuracy score) and the sensors values to the firebase databse.
+
+Run the client side with the flutter dependencies to run the client side code.
+
 
 ## How to Run
-Instructions for running
+
+python 1.py
+
+flutter run
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )
+
+[Figma Design](https://www.figma.com/file/vSlhdRPibICLGY52UaBiiS/E-Nose?type=design&node-id=0%3A1&mode=design&t=WVgRZWYonVnD5Ysr-1)
