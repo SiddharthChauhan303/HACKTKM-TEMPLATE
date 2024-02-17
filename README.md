@@ -46,9 +46,9 @@ Run the client side with the flutter dependencies to run the client side code.
 
 ## How to Run
 
-$python 1.py$
+python 1.py
 
-$flutter run$
+flutter run
 
 ## Other Links
 
