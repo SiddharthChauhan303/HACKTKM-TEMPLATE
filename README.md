@@ -2,7 +2,7 @@
 
 
 # {Project Name} - HACK4TKM
-Tell us about your project here
+
 
 ## Team Members
 [1.Kushal Partani](https://github.com/Kushal7551)   
@@ -14,11 +14,17 @@ Tell us about your project here
 [Embed the live link of project](live_link)
 
 ## How it Works ?
-Explaining the working of project  
+Integration of gas sensors for real-time monitoring of food freshness.
+
+Utilization of machine learning algorithms to analyze sensor data.
+
+Threshold-based assessment for determining food edibility.
+
+Empowering consumers and industries with proactive food management solutions.
 Embed video of project demo
 
 ## Technologies used
-List out tech stacks you have used
+
 
 ## How to configure
 Instructions for setting up project
