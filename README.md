@@ -25,12 +25,19 @@ Embed video of project demo
 
 ## Technologies used
 python 
+
 Pytorch 
+
 Tensorflow
+
 Pyserial
+
 Numpy
+
 Pandas
+
 Flutter
+
 Arduino 
 
 ## How to configure
